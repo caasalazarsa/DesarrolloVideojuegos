@@ -11,3 +11,4 @@
 [Guía Game Concept Document](https://www.rubensolerferrer.com/guia-para-crear-un-game-design-document/) Página de guía para definir completamente el concepto del videojuego\
 [Sprites misteriosos](https://drive.google.com/drive/folders/1lx02_w9TFTYdR3aggI1gbXcLr69roaNV)\
 [Unity AR tutorial](https://youtube.com/playlist?list=PL21rXz2J9uIHv5_ktWrGvxM-Wabj8Qd5X) Tutorial AR unity
+[AR image tracking](https://www.youtube.com/watch?v=gpaq5bAjya8) AR unity image tracking
