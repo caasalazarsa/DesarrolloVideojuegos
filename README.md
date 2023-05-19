@@ -12,4 +12,6 @@
 [Sprites misteriosos](https://drive.google.com/drive/folders/1lx02_w9TFTYdR3aggI1gbXcLr69roaNV)\
 [Unity AR tutorial](https://youtube.com/playlist?list=PL21rXz2J9uIHv5_ktWrGvxM-Wabj8Qd5X) Tutorial AR unity\
 [AR image tracking](https://www.youtube.com/watch?v=gpaq5bAjya8) AR unity image tracking\
-[video in ui unity](https://www.youtube.com/watch?v=L6-vAtuN0h8) video en UI unity
+[video in ui unity](https://www.youtube.com/watch?v=L6-vAtuN0h8) video en UI unity\
+[video ar opecv](https://www.youtube.com/watch?v=_6x7pDOJkEk&ab_channel=AiPhile) opencv AR tutorial\
+[ar pyimagesearch](https://pyimagesearch.com/2021/01/04/opencv-augmented-reality-ar/) tutorial pyimagesearch
